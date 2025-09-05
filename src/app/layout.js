@@ -12,7 +12,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata = {
-  title: 'Dream to Reality',
+  title: 'DreamForge - AI Dream Generator',
   description: 'Describe your dream, let AI transform it into art.',
 }
 
